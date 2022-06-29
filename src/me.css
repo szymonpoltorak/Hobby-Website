@@ -40,7 +40,17 @@
     font-size: 15px;
 }
 
+.text{
+    text-align: justify;
+    padding: 0.5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 #git{
     width: 21px;
     height: 21px;
+}
+
+.me-img{
+    text-align: center;
 }
