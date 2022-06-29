@@ -1,0 +1,17 @@
+#home{
+    border-left: 1px dotted black;
+}
+
+#main{
+    margin: 20%;
+    margin-top: 5%;
+}
+
+#title{
+    text-align: center;
+}
+
+.header2{
+    text-align: center;
+    border-bottom: dotted grey;
+}

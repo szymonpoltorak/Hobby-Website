@@ -16,51 +16,6 @@ h1{
     padding: 0.5%;
 }
 
-.header2{
-    text-align: justify;
-    padding: 0.3%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.text{
-    text-align: justify;
-    padding: 0.5%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-#footer{
-    background-color: azure;
+#title{
     text-align: center;
-    padding: 20px;
-    font-size: 15px;
-}
-
-#git{
-    width: 21px;
-    height: 21px;
-}
-
-.menubar{
-    background-color: #c4c1b7;
-    padding: 0.5%;
-    text-align: center;
-    opacity: 0.8;
-}
-
-.option{
-    clear: both;
-    border-right: 1px dotted black;
-    text-decoration: none;
-    padding: 0.6%;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: black;
-    text-align: center;
-}
-
-#home{
-    border-left: 1px dotted black;
-}
-
-.option:hover{
-    background-color: #d9d7d2;
 }

@@ -1,0 +1,16 @@
+#home{
+    border-left: 1px dotted black;
+}
+
+#main{
+    margin: 20%;
+    margin-top: 5%;
+}
+
+#title{
+    text-align: center;
+}
+
+.me-img{
+    text-align: center;
+}
