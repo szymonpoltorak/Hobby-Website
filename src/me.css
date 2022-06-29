@@ -13,4 +13,9 @@
 
 .me-img{
     text-align: center;
+    transition: transform 0.5s ease-in-out;
+}
+
+.me-img:hover{
+    transform: scale(1.2);
 }
