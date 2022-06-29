@@ -35,6 +35,11 @@ h1{
     font-size: 15px;
 }
 
+#git{
+    width: 21px;
+    height: 21px;
+}
+
 .menubar{
     background-color: #c4c1b7;
     padding: 0.5%;
