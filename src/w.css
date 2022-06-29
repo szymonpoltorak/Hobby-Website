@@ -11,7 +11,30 @@
     text-align: center;
 }
 
-.header2{
-    text-align: center;
-    border-bottom: dotted grey;
+.images{
+    width: 200px;
+    height: 300px;
+    padding: 20px;
+    float: left;
+    transition: transform 0.5s ease-in-out;;
+}
+
+.images:hover{
+    transform: scale(1.2);
+}
+
+#w2{
+    float: right;
+}
+
+#w1-txt{
+    height: 310px;
+}
+
+#w2-txt{
+    height: 310px;
+}
+
+#w3-txt{
+    height: 310px;
 }

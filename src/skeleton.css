@@ -45,3 +45,11 @@
     text-align: center;
     border-bottom: dotted grey;
 }
+
+.wiki{
+    text-decoration: none;
+}
+
+.wiki:visited{
+    text-decoration: none;
+}
