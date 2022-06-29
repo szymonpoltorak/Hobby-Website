@@ -1,8 +1,7 @@
 .menubar{
-    background-color: #c4c1b7;
+    background-color: #e76f51;
     padding: 0.5%;
     text-align: center;
-    opacity: 0.8;
 }
 
 .option{
@@ -16,7 +15,7 @@
 }
 
 .option:hover{
-    background-color: #d9d7d2;
+    background-color: #ed947e;
 }
 
 #home{
@@ -30,7 +29,6 @@
 }
 
 #footer{
-    background-color: azure;
     text-align: center;
     padding: 20px;
     font-size: 15px;
@@ -43,7 +41,7 @@
 
 .header2{
     text-align: center;
-    border-bottom: dotted grey;
+    background-color: #f4a261;
 }
 
 .wiki{

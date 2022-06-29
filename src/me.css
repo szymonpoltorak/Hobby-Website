@@ -3,12 +3,14 @@
 }
 
 #main{
+    background-color: #264653;
     margin: 20%;
     margin-top: 5%;
 }
 
 #title{
     text-align: center;
+    background-color: #f4a261;
 }
 
 .me-img{
@@ -18,4 +20,8 @@
 
 .me-img:hover{
     transform: scale(1.2);
+}
+
+#content{
+    background-color: #2a9d8f;
 }

@@ -2,13 +2,19 @@
     border-left: 1px dotted black;
 }
 
+#content{
+    background-color: #2a9d8f;
+}
+
 #main{
     margin: 20%;
     margin-top: 5%;
+    background-color: #264653;
 }
 
 #title{
     text-align: center;
+    background-color: #f4a261;
 }
 
 .images{
@@ -28,13 +34,13 @@
 }
 
 #w1-txt{
-    height: 310px;
+    height: 315px;
 }
 
 #w2-txt{
-    height: 310px;
+    height: 315px;
 }
 
 #w3-txt{
-    height: 310px;
+    height: 315px;
 }
